@@ -10,7 +10,9 @@ mvn clean install
 
 Then, you can execute the application by running this command:
 
-java -jar target/belatrix-camilovarela-1.0.0.jar --location=/path-to-the-input-plain-file
+java -jar target/belatrix-camilovarela-1.0.0.jar --file.location=/path-to-the-input-plain-file
+
+The results appear in the base folder of the project.
 
 ## Author
 

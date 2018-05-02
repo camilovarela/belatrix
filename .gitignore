@@ -3,7 +3,6 @@ target/
 bin/
 !.mvn/wrapper/maven-wrapper.jar
 derby.log
-*.txt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
